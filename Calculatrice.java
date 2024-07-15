@@ -42,37 +42,5 @@ public class Calculatrice {
                 System.out.println(e);
             }
         }
-
-
-
-//            String[] calcArray = calcul.split(" ");
-//            int num1 = Integer.parseInt(calcArray[0]);
-//            String operande = calcArray[1];
-//            int num2 = Integer.parseInt(calcArray[2]);
-
-            /** String operande = bufferRead.readLine();
-            int num1 = Integer.parseInt(bufferRead.readLine());
-            int num2 = Integer.parseInt(bufferRead.readLine());
-             */
-
-//            switch (operande) {
-//                case "+":
-//                    System.out.println("Votre résultat est de : " + (num1 + num2));
-//                    break;
-//                case "-":
-//                    System.out.println("Votre résultat est de : " + (num1 - num2));
-//                    break;
-//                case "*":
-//                    System.out.println("Votre résultat est de : " + (num1 * num2));
-//                    break;
-//                case "/":
-//                    System.out.println("Votre résultat est de : " + (num1 / num2));
-//                    break;
-//            }
-
-
-
-
-
     }
 }
