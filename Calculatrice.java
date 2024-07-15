@@ -12,7 +12,7 @@ public class Calculatrice {
 
                 String calcul = bufferRead.readLine();
                 if(calcul.equals("exit")){
-                    System.exit(0);
+                    check = false;
                 }
 
                 for(int i = 0; i < calcul.length(); i++) {
