@@ -55,7 +55,7 @@ public class Program {
 
     public static void showVehicle(){
         if(concession.getVoitures().isEmpty()){
-            System.out.println("Auncun véhicule dans la concession");
+            System.out.println("Aucun véhicule dans la concession");
         } else {
             System.out.println(concession.getVoitures());
         }
