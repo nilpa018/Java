@@ -22,6 +22,7 @@ public class CoursesList {
         HashMap<String, Integer> coursesList = new HashMap<String, Integer>();
         HashMap<String, Integer> caddieList = new HashMap<String, Integer>();
 
+
         while(true) {
             Scanner sc = new Scanner(System.in);
             System.out.println("Que voulez vous faire ?");
